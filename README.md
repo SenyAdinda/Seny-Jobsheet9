@@ -3,3 +3,8 @@ Jobsheet 9 : Membuat project dengan 3 buah activity dimana activity utama memili
 oleh : Seny Adinda Marsela STE2022O2720
 
 ![](https://github.com/SenyAdinda/Seny-Jobsheet9/blob/main/Seny_Jobsheet9.png)
+
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](h[ttps://youtu.be/VIDEO_ID](https://youtu.be/Cyk5Aqx9TkA?feature=shared))
+
