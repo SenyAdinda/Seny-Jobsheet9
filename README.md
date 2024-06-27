@@ -6,5 +6,5 @@ oleh : Seny Adinda Marsela STE2022O2720
 
 ## Demo Video
 
-![](h[ttps://youtu.be/VIDEO_ID](https://youtu.be/Cyk5Aqx9TkA?feature=shared)
+![](https://youtu.be/Cyk5Aqx9TkA?feature=shared)
 
